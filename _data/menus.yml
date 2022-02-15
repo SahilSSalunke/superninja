@@ -5,7 +5,7 @@ main:
   - name: "Mental Models"
     url: "/team/"
     weight: 3
-  - name: "Communication"
+  - name: "Communication Skills"
     url: "/about/"
     weight: 4
   - name: "About"
