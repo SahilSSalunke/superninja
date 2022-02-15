@@ -1,13 +1,5 @@
 [
-  {
-    "title": "Communication Skills",
-    "description": "Best practices for improving communication.",
-    "image": {
-      "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
+  
   {
     "title": "Financial Analysis",
     "description": "Concepts, tips and tricks of financial analysis.",
@@ -22,6 +14,15 @@
     "description": "Multidisciplinary ideas to understand the world better.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Communication Skills",
+    "description": "Best practices for improving communication.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
       "height": 80
     }
