@@ -1,8 +1,16 @@
 [
-  
   {
-    "title": "Financial Analysis",
-    "description": "Concepts, tips and tricks of financial analysis.",
+    "title": "Free Consultation",
+    "description": "New clients receive an obligation free consultation.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Certified Accountants",
+    "description": "All members of our team are certified accountants.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -10,19 +18,10 @@
     }
   },
   {
-    "title": "Mental Models",
-    "description": "Multidisciplinary ideas to understand the world better.",
+    "title": "Tax Compliance",
+    "description": "We stay up to date on the latest changes to the tax code.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Communication Skills",
-    "description": "Best practices for improving communication.",
-    "image": {
-      "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
       "height": 80
     }

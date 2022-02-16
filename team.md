@@ -1,13 +1,12 @@
 ---
-title: Mental Models
+title: Team
 layout: teams
-description: Mental Models
+description: Team
 permalink: "/team/"
-#intro_image: "images/illustrations/mentalmodels.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Mental Models
+# Meet The Team
 
 Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
