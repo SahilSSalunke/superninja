@@ -1,12 +1,12 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Finance"
+    url: "/finance/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Mental Models"
+    url: "/mental_models/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "Communication Skills"
+    url: "/communication_skills/"
     weight: 4
   - name: "Contact"
     url: "/contact/"
