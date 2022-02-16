@@ -1,14 +1,14 @@
 main:
-  - name: "Financial Analysis"
+  - name: "Services"
     url: "/services/"
     weight: 2
-  - name: "Mental Models"
+  - name: "Team"
     url: "/team/"
     weight: 3
-  - name: "Communication Skills"
+  - name: "About"
     url: "/about/"
     weight: 4
-  - name: "About"
+  - name: "Contact"
     url: "/contact/"
     weight: 5
 
@@ -16,6 +16,6 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "About"
+  - name: "Contact"
     url: "/contact/"
     weight: 2
