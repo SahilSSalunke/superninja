@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Sahil's Blog
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Sahil Salunke's collection of mental models for business, learnings in finance, communication skills, useful code and much more
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Sahil's Blog.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+My collection of mental models for business, learnings in finance and much more.
