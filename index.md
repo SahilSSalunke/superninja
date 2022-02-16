@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Sahil's Blog.
+# Sahil's Blog - A potpourri of useful ideas.
 
-My collection of mental models for business, learnings in finance and much more.
+My collection of mental models for business, learnings in finance, soft skills and much more.
