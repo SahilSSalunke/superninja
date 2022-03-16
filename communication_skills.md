@@ -2,7 +2,7 @@
 title: Communication Skills
 layout: finance
 description: Communication Skills
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/illustrations/communication.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
