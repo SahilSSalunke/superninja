@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Communication Skills
+# Communication and soft skills for home and the workplace
 
-Best practices, tips and tricks for improving communication at home and work
+“The single biggest problem in communication is the illusion that it has taken place.” – George Bernard Shaw
