@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Learnings in finance from years of reading
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Concepts, tips and tricks for financial analysis.
