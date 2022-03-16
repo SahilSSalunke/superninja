@@ -9,4 +9,6 @@ intro_image_hide_on_mobile: true
 
 # Multidisciplinary ideas to understand the world better
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+“You’ve got to have models in your head. And you’ve got to array your experience—both vicarious and direct—on this latticework of models.”
+
+— Charlie Munger
