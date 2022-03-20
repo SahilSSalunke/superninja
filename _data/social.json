@@ -2,11 +2,11 @@
   {
     "name": "LinkedIn",
     "link": "https://www.linkedin.com/in/sahilsalunke/",
-    "image": "images/social/simple-linkedin.svg"
+    "image": "images/social/red-linkedin.svg"
   },
   {
     "name": "Twitter",
     "link": "https://twitter.com/sahil_salunke",
-    "image": "images/social/simple-twitter.svg"
+    "image": "images/social/twitter.svg"
   }
 ]
