@@ -8,7 +8,7 @@ layout: service
 
 This book is the story of the group of men who created an **extraordinary** cement company. 
 
-![The Ambuja Story Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![The Ambuja Story Services](/images/Ambuja_Story.jpg)
 Winner of the 2022 TATA Literature Live! Business Book Award!
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
