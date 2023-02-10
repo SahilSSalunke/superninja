@@ -6,9 +6,11 @@ weight: 6
 layout: service
 ---
 
+This book is the story of the group of men who created an **extraordinary** cement company. 
+
+![The Ambuja Story Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 Winner of the 2022 TATA Literature Live! Business Book Award!
 
-This book is the story of the group of men who created an **extraordinary** cement company.
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
 Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
