@@ -8,13 +8,12 @@ layout: service
 
 This book is about identifying **compounding machines** in the public markets and holding them for the **long term**.
 
--- ![The Ambuja Story Services](/images/phelps.jpg)
-Written by Thomas Phelps
+![Services](/images/phelps.jpg)
+Written by Thomas Phelps, a distinguished security analyst, in the 1970s this book  
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+On diversification - 'People who bet on all of the horses in a race always have a winner but never make any money.'
+
+
 
 - Nata perque
 - Et ferrugine laedam
