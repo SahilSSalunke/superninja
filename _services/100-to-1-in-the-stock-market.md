@@ -1,5 +1,5 @@
 ---
-title: "The Ambuja Story"
+title: "100 to 1 in the Stock Market"
 date: 2023-02-10T12:33:46+10:00
 featured: true
 weight: 6
@@ -8,8 +8,8 @@ layout: service
 
 This book is the story of the group of men who created an **extraordinary** cement company. 
 
-![The Ambuja Story Services](/images/Ambuja_Story.jpg)
-Winner of the 2022 TATA Literature Live! Business Book Award!
+-- ![The Ambuja Story Services](/images/Ambuja_Story.jpg)
+Written by Thomas Phelps
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
