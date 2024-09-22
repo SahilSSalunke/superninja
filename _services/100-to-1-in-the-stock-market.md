@@ -6,9 +6,9 @@ weight: 6
 layout: service
 ---
 
-This book is the story of the group of men who created an **extraordinary** cement company. 
+This book is about identifying **compounding machines** in the public markets and holding them for the **long term**.
 
--- ![The Ambuja Story Services](/images/Ambuja_Story.jpg)
+-- ![The Ambuja Story Services](/images/phelps.jpg)
 Written by Thomas Phelps
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
