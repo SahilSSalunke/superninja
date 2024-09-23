@@ -13,11 +13,12 @@ Written by Thomas Phelps, a distinguished security analyst, in the 1970s this bo
 
 On diversification - 'People who bet on all of the horses in a race always have a winner but never make any money.'
 
+Paul Garrett's four criteria
 
-
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+- Small in size
+- Relatively unknown
+- Unique or new product/ service with long-term prospects
+- Strong management
 
 Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
 precor facitote nubemque. Potuit Celadon Martem?
