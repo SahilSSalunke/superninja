@@ -26,6 +26,8 @@ Lessons?
 1. Stay with your most successful stock investments as long as company is increasing its earnings
 2. Never forget that people whose self interest is diametrically opposed to your own are persuading you to act everyday. Who is talking often means more than what is said. Try to identify people whose interests correspond with yours
 
+Additional criteria to look at while identifying companies:
+
 ## Patulis Veneris est expulit adversaque magnum mediaque
 
 Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
