@@ -34,13 +34,24 @@ Ensure the following are installed on your system:
 
 - **Ruby** (version 3.3.4 or higher)
 - **Bundler** (Ruby gem for managing dependencies)
-- **Jekyll** (version 4.4.1 or higher)
+- **Jekyll** (version 4.3 or higher)
 
 ---
 
+## Steps to run in Codespaces
+
+Install pre-requisite packages, specified in gemfile, through the following command:
+```bash
+bundle install
+```
+Run the server:
+```bash
+bundle exec jekyll serve
+```
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone <repository-url>
    cd <repository-folder>
+   ```
