@@ -1,89 +1,46 @@
-# Jekyll Serif Theme
+# Sahil Salunke - Jekyll Website
 
-Serif is a modern business theme for Jekyll. It contains multiple content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+This repository contains the source code for a Jekyll-based static website. The site is designed to be responsive, customizable, and easy to deploy. It includes features like pages, navigation and a clean, professional layout.
 
-[Live Demo](https://jekyll-serif.netlify.app/) | 
-[Zerostatic Themes](https://www.zerostatic.io)
+---
 
-### Theme features
+## Features
 
-- Jekyll 4.2
-- Netlify & Github Pages ready
-- Services (Collection)
-- Team (Collection)
-- Features (Data)
-- SCSS
-- Responsive design
-- Responsive hamburger and slide in menu
-- Bootstrap 4.6
-- Only the bootstrap grid and utilites are imported by default. If you want to use more of the Boostrap library you can uncomment the `@import` in `style.scss`
-- 100/100 Google Lighthouse speed score
-- 100/100 Google Lighthouse seo score
-- 100/100 Google Lighthouse accessibility score
-- 100/100 Google Lighthouse best practices score
-- Under 50KB without images or 80KB with images and illustrations ⚡
-- Under 20KB without Google fonts ⚡⚡⚡
-- Robust example content included
-- Royalty free illustrations included
+- **Static Site Generator**: Built with [Jekyll](https://jekyllrb.com/), a powerful static site generator.
+- **Responsive Design**: Fully responsive layout with mobile-friendly navigation.
+- **Customizable Content**: Easily manage services, team profiles, and other content using Markdown files.
+- **SCSS Styling**: Modular SCSS for easy styling and customization.
+- **Stackbit Integration**: Configured for Stackbit for enhanced content management.
+- **Netlify Deployment**: Ready for deployment on [Netlify](https://www.netlify.com/).
 
+---
+
+## Project Structure
+
+- **`_config.yml`**: Main configuration file for Jekyll.
+- **`_services/`**: Contains Markdown files for service pages.
+- **`_team/`**: Contains Markdown files for team member profiles.
+- **`_layouts/`**: Jekyll layouts for rendering pages.
+- **`_includes/`**: Reusable HTML components (e.g., header, footer).
+- **`_sass/`**: SCSS files for styling.
+- **`assets/`**: Static assets like images and CSS.
+- **`_data/`**: YAML/JSON files for structured data (e.g., menus, features).
+
+---
+
+## Prerequisites
+
+Ensure the following are installed on your system:
+
+- **Ruby** (version 3.3.4 or higher)
+- **Bundler** (Ruby gem for managing dependencies)
+- **Jekyll** (version 4.4.1 or higher)
+
+---
 
 ## Installation
 
-### Installing Ruby & Jekyll
- 
-If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
-
-### Installing Theme
-
-Download or clone the theme.
-
-To run the theme locally, navigate to the theme directory and run:
-
-```
-bundle install
-``` 
-
-To start the Jekyll local development server.
-
-```
-bundle exec jekyll serve
-``` 
-
-To build the theme.
- 
-```
-bundle exec jekyll build
-```
-
-## Deployment
-
-### Netlify
-
-Use Netlify to deploy this theme. This theme contains a valid and tested `netlify.toml` - Feel free to use the 1-click deploy below.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zerostaticthemes/jekyll-serif-theme)
-
-### Github Pages
-This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
-
-For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would have `baseurl: "/jekyll-serif-theme/"`
-
-## Extras
-
-### License
-
-- You cannot create ports of this theme
-- You cannot re-sell this theme
-
-### Credits 
-
-- Beautiful royalty free Illustrations by Icons8 - https://icons8.com/illustrations/style--pixeltrue
-- Stock images by Unsplash - https://unsplash.com/
-- Feature icons by Noun Project - https://thenounproject.com/
-
-### Other Jekyll Themes by Zerostatic
-
-- [Jekyll Serif](https://github.com/zerostaticthemes/jekyll-serif-theme)
-- [Jekyll Advance](https://www.zerostatic.io/theme/jekyll-advance/)
-
-🇦🇺 **Made in Australia** by Robert Austin - leave a star mate!
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd <repository-folder>
