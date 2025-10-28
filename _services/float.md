@@ -1,11 +1,11 @@
 ---
-title: "Business of float"
+title: "Cash Float"
 date: 2025-10-28T12:35:46+10:00
 featured: true
 weight: 1
 ---
 
-Float is upfront money that a business generates that can earn a return till the service or product is due. “
+"Cash Float" or simply "Float" is upfront money that a business generates that can earn a return till the service or product is due. 
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
@@ -17,17 +17,21 @@ Float is essentially just other people’s money that a business is allowed to h
 
 There are a variety of businesses that generate float each with it's own unique characteristic (cost and duration)
 
-1. Life Insurance: Long tenure (life) as well as short tenure float (P&C)
-2. Pensions/ Annuities: Long tenured float
-3. Gift cards/ prepaid cards or memberships:
+1. Insurance
+2. Pensions/ Annuities
+3. Gift cards/ prepaid cards or memberships
 4.  
 
 ## Insurance Float
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+- Insurance business provides a guaranteed compensation for specified event such as loss, damage, illness, or death in return for payment of a premium. It can be long tenured (life) as well as short tenure float (P&C - property & casualty aka General Insurance.
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+- Negative cost P&C float is the most valuable float. Buffett in fact wrote about GEICO as "The security I like best"
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 
+## Pension/ Annuities Float
+
+- Pensions and annuities are financial products that provide a guaranteed regular income after a series of contributions. Annuity/pension float is longer tenured but typically positive-cost (have to pay crediting rates/benefits and hold more capital), and  has less investment flexibility—so, dollar-for-dollar, it’s usually less valuable than insurance float.
+
+- Capital rules (NAIC/Solvency II) and ALM requirements push life insurers toward duration-matched, spread-based portfolios and impose heavy capital charges on equities/structured residuals, which reduces the freedom to run a high-equity, high-concentration portfolio
 
